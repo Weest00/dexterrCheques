@@ -1,6 +1,0 @@
-name: dexterrCheques
-version: '1.0-SNAPSHOT'
-main: net.dexterr.cheques.Main
-api-version: '1.21'
-commands:
-  cheque:
